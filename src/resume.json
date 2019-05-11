@@ -1,0 +1,118 @@
+{
+    "name": "Ferdinand Espiritu",
+    "image": "assets/images/profile.png",
+    "email": "freddie.espiritu@yahoo.com",
+    "phoneMobile": "714-249-5338",
+    "phoneHome": "714-249-5338",
+    "website": "www.fespiritu.com",
+    "desiredTitle": "Full Stack Developer",
+    "linkedIn": "ferdinandoespiritu",
+    "twitter": "@FreddieAdaTech",
+    "educations": [
+        {
+            "degree": "BS in Computer Engineering",
+            "schoolName": "CSU Northridge",
+            "period": "1996 - 2005"
+        },
+        {
+            "degree": "Microcontroller",
+            "schoolName": "UCLA Extension",
+            "period": "1995"
+        }
+    ],
+    "careerProfile": "Officia ut pariatur cupidatat do est laboris ea consequat sint. Ipsum labore quis do adipisicing proident mollit culpa labore sit duis. Veniam nulla elit nostrud exercitation incididunt ipsum enim quis. Magna magna eiusmod voluptate consectetur laboris veniam dolor culpa ullamco. Et ut cupidatat exercitation consequat laborum minim. Esse quis cupidatat aliquip sunt proident id id tempor eu aute.",
+    "languages": [
+        {
+            "name": "English",
+            "level": "native"
+        },
+        {   "name": "Tagalog",
+            "level": "native"
+        }
+    ],
+    "skillSets": [
+        {
+            "name": "ReactJS",
+            "percent": 40
+        },
+        {
+            "name": "Java",
+            "percent": 40
+        },
+        {
+            "name": "Spring MVC",
+            "percent": 40
+        },
+        {
+            "name": "JavaScript",
+            "percent": 100
+        },
+        {
+            "name": "HTML5",
+            "percent": 100
+        },
+        {   "name": "C#",
+            "percent": 100
+        },
+        {   "name": "VB.NET",
+            "percent": 100
+        },
+        {   "name": "SQL Server",
+            "percent": 100
+        }
+    ],
+    "interests": [
+        {
+            "name": "Basketball"
+        },
+        {   
+            "name": "Computers"
+        },
+        {   
+            "name": "Read Technical Books"
+        },
+        {   
+            "name": "Investing-FX, Real Estate"
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Technology Architect",
+            "period": "2017 - Present",
+            "company": "Boeing/Infosys, Seal Beach, CA",
+            "details": [
+                {
+                    "detail": "Proident irure pariatur nulla ex sit cillum sit enim voluptate mollit sint. Ut duis non nulla ad mollit quis. Amet cupidatat aliquip fugiat nulla culpa. Do ipsum velit esse aute minim fugiat irure ad ea esse dolore."
+                },
+                {
+                    "detail": "Incididunt id exercitation amet aliquip minim consectetur duis amet pariatur est ea veniam cupidatat pariatur. Minim dolore in velit excepteur adipisicing duis irure adipisicing esse. Commodo veniam labore minim nisi Lorem adipisicing. Mollit laboris consequat consectetur cillum consequat veniam deserunt proident ut incididunt reprehenderit voluptate. Fugiat ullamco exercitation culpa incididunt quis amet fugiat cupidatat et eu. Ullamco in ipsum adipisicing consectetur esse deserunt culpa minim nisi. Aliqua et ad est excepteur ad ullamco sit nisi veniam quis non non deserunt tempor."
+                }
+            ]
+        },
+        {
+            "title": "Sr. Software Developer",
+            "period": "2016 - 2017",
+            "company": "SeneGence, Lake Forest, CA",
+            "details": [
+                {
+                    "detail": "Proident irure pariatur nulla ex sit cillum sit enim voluptate mollit sint. Ut duis non nulla ad mollit quis. Amet cupidatat aliquip fugiat nulla culpa. Do ipsum velit esse aute minim fugiat irure ad ea esse dolore."
+                },
+                {
+                    "detail": "Incididunt id exercitation amet aliquip minim consectetur duis amet pariatur est ea veniam cupidatat pariatur. Minim dolore in velit excepteur adipisicing duis irure adipisicing esse. Commodo veniam labore minim nisi Lorem adipisicing. Mollit laboris consequat consectetur cillum consequat veniam deserunt proident ut incididunt reprehenderit voluptate. Fugiat ullamco exercitation culpa incididunt quis amet fugiat cupidatat et eu. Ullamco in ipsum adipisicing consectetur esse deserunt culpa minim nisi. Aliqua et ad est excepteur ad ullamco sit nisi veniam quis non non deserunt tempor."
+                }
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "ReactJS",
+            "description": "Elit cupidatat voluptate incididunt magna magna dolor ut ullamco non magna.",
+            "noOfYears": 1
+        },
+        {
+            "skillName": ".NET",
+            "description": "Tempor exercitation adipisicing quis eu sit pariatur velit dolore sunt laborum ipsum exercitation magna.",
+            "noOfYears": 14
+        }
+    ]
+}
